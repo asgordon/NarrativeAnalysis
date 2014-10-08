@@ -69,8 +69,8 @@ http://people.ict.usc.edu/~gordon/publications/CMN13.PDF
 If you publish work that uses this software, please cite
 the paper above.
 
-v0.2: Minor changes to tokenization in English (KS Sep 9 2014)
-v0.1: Initial release
+* v0.2: Minor changes to tokenization in English (KS Sep 9 2014)
+* v0.1: Initial release
 
 Licence
 -------
