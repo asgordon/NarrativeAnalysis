@@ -1,5 +1,4 @@
-NarrativeAnalysis
-=================
+# NarrativeAnalysis
 
 This program analyzes subjectivity and narrative levels
 (diegetic levels) in personal stories (first person
@@ -10,35 +9,33 @@ The software for each language is found in directories
 named en, fa and cn, respectively.
 
 
-Installing
-----------
+## Installing
 
 Model files are compressed using gzip, and need to be 
 unzipped before using. From a linux command line prompt, 
 type:
 
-  make
+    make
 
 
-Using
------
+## Using
 
 The input to the program is a personal story in plain
 text format. 
 
-  perl NarrativeAnalysis.pl story.txt
+    perl NarrativeAnalysis.pl story.txt
 
 
 The program performs the analysis in three
 steps, described below.
 
-1. Segmentation
+### 1. Segmentation
 
 The text is segmented into discourse units, where each
 unit is a span of text that has a single subjectivity
 label and a single narrative level.
 
-2. Narrative Level classification
+### 2. Narrative Level classification
 
 Each segmented is classified as Diegetic or Extradiegetic.
 
@@ -51,7 +48,7 @@ those segments of the story that correspond to the level
 of the story where the author is the narrator or
 storyteller.
 
-3. Subjectivity classification
+### 3. Subjectivity classification
 
 Each segment is classified as Subjective (S) or
 Objective (O).
@@ -62,8 +59,7 @@ processes, opinions, beliefs, etc.
 Objective segments are those that describe observable
 events or states in the world.
 
-About
------
+## About
 
 For more information, please see:
 
