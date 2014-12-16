@@ -63,7 +63,7 @@ events or states in the world.
 
 For more information, please see:
 
-Sagae, K., Gordon, A., Dehghani, M., Metke, M., Kim, J., Gimbel, S., Tipper, C., Kaplan, J., and Immordino-Yang, M. (2013) A Data-Driven Approach for Classification of Subjectivity in Personal Narrative. 2013 Workshop on Computational Models of Narrative, August 4-6, 2013, Hamburg, Germany. 
+* Sagae, K., Gordon, A., Dehghani, M., Metke, M., Kim, J., Gimbel, S., Tipper, C., Kaplan, J., and Immordino-Yang, M. (2013) A Data-Driven Approach for Classification of Subjectivity in Personal Narrative. 2013 Workshop on Computational Models of Narrative, August 4-6, 2013, Hamburg, Germany. 
 http://people.ict.usc.edu/~gordon/publications/CMN13.PDF
 
 If you publish work that uses this software, please cite
